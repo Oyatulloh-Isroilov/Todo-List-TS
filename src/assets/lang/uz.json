@@ -1,0 +1,13 @@
+{
+    "all": "Barchasi",
+    "groceries": "Oziq-ovqat mahsulotlari",
+    "college": "Kolej",
+    "payments": "To'lovlar",
+    "inputPlaceholder": "kategoriyasiga ma'lumot",
+    "addButton": "Qo'shish",
+    "emptyFieldError": "Bo'sh maydonni qo'shish mumkin emas!",
+    "duplicateError": "Bu ma'lumot oldin kiritilgan",
+    "allTasks": "Barcha vazifalar",
+    "updatePrompt": "Yangi ma'lumotni kiriting"
+  }
+  

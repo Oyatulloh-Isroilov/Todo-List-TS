@@ -1,0 +1,13 @@
+{
+    "all": "All",
+    "groceries": "Groceries",
+    "college": "College",
+    "payments": "Payments",
+    "inputPlaceholder": "Category Menu",
+    "addButton": "Add",
+    "emptyFieldError": "Can't add a blank field!",
+    "duplicateError": "This information was previously entered",
+    "allTasks": "All tasks",
+    "updatePrompt": "Enter new information"
+  }
+  

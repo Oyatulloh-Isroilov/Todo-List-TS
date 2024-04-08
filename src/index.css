@@ -52,6 +52,7 @@ input {
   border: none;
   color: #fff;
   margin-bottom: 5px;
+  margin-left: 20px;
 }
 .add:hover {
   color: #ea5959;
@@ -98,8 +99,9 @@ li {
   position: absolute;
   z-index: 100;
   width: 230px;
-  height: 712px;
+  height: 100vh;
   left: -230px;
+  top: -0px;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: none;
@@ -133,4 +135,25 @@ li {
   padding: 7px;
   border-radius: 10px;
   margin-left: 30px;
+}
+
+.languagesButtons {
+  display: flex;
+  margin-left: 20px;
+}
+
+.languageBtn {
+  gap: 20px;
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: none;
+  gap: 20px;
+  width: 130px;
+  color: #ea5959;
+  background: #fff;
+}
+
+.categorySelected {
+  padding: 10px;
+  border-radius: 15px;
 }

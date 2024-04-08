@@ -1,0 +1,13 @@
+{
+    "all": "Все",
+    "groceries": "Продукты питания",
+    "college": "Колледж",
+    "payments": "Платежи",
+    "inputPlaceholder": "Меню категорий",
+    "addButton": "Добавлять",
+    "emptyFieldError": "Невозможно добавить пустое поле!",
+    "duplicateError": "Эта информация была ранее введена",
+    "allTasks": "Все задачи",
+    "updatePrompt": "Введите новую информацию"
+  }
+  
